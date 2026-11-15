@@ -5,6 +5,43 @@ window.PORTFOLIO = {
   "linkedin": "https://www.linkedin.com/in/ziad-bassem-578714387",
   "projects": [
     {
+      "title": "RescueRoute AI",
+      "category": "Artificial Intelligence",
+      "label": "AI search algorithms project",
+      "description": "An interactive ambulance-routing simulation built with Python and A* Search. It calculates minimum-travel-time routes while accounting for traffic and road closures, then selects the lowest-time reachable hospital compatible with the simulated emergency type.",
+      "tags": [
+        "Python",
+        "A* Search",
+        "Heuristic Search",
+        "Tkinter",
+        "Pathfinding",
+        "Unit Testing"
+      ],
+      "image": "assets/rescue-route-ai.png",
+      "githubUrl": "https://github.com/ziad25506/RescueRoute-AI",
+      "featured": true,
+      "actualScreenshot": true
+    },
+    {
+      "title": "PumpGuard AIoT",
+      "category": "Artificial Intelligence",
+      "label": "Team project · My role: ML development & UI integration",
+      "description": "A smart pump-monitoring and predictive-maintenance system that combines vibration, water-flow, temperature, and current telemetry. I developed the machine-learning model and integrated it into the monitoring UI, connecting model-driven insights with the pump-monitoring workflow.",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Predictive Maintenance",
+        "IoT",
+        "Streamlit",
+        "FastAPI",
+        "SQLite",
+        "Sensor Data"
+      ],
+      "image": "assets/pumpguard-dashboard.jpg",
+      "actualScreenshot": true,
+      "architectureUrl": "assets/pumpguard-system-overview.jpg"
+    },
+    {
       "title": "Egyptian Cars AI",
       "category": "Machine Learning",
       "label": "NTI training project",
