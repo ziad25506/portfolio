@@ -1,0 +1,18 @@
+# Portfolio update — image path fix
+
+This package fixes the project image paths to match the exact filenames already uploaded to your GitHub `assets/` folder.
+
+## Upload these four files to the repository root
+- `index.html`
+- `content.js`
+- `app.js`
+- `styles.css`
+
+Replace the existing files when GitHub asks. Do not delete or replace the `assets/` folder. The image files inside this package use the same names as the three images you already uploaded; they are included here only as a reference/backup.
+
+## Exact image paths used
+- `assets/Screenshot (324).png` — RescueRoute AI screenshot
+- `assets/WhatsApp Image 2026-11-15 at 4.38.10 PM.jpeg` — PumpGuard dashboard
+- `assets/WhatsApp Image 2026-11-15 at 4.39.35 PM.jpeg` — PumpGuard system overview
+
+After committing, hard-refresh the site with Ctrl+F5.

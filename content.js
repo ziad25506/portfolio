@@ -17,7 +17,7 @@ window.PORTFOLIO = {
         "Pathfinding",
         "Unit Testing"
       ],
-      "image": "assets/rescue-route-ai.png",
+      "image": "assets/Screenshot (324).png",
       "githubUrl": "https://github.com/ziad25506/RescueRoute-AI",
       "featured": true,
       "actualScreenshot": true
@@ -37,9 +37,9 @@ window.PORTFOLIO = {
         "SQLite",
         "Sensor Data"
       ],
-      "image": "assets/pumpguard-dashboard.jpg",
+      "image": "assets/WhatsApp Image 2026-11-15 at 4.38.10 PM.jpeg",
       "actualScreenshot": true,
-      "architectureUrl": "assets/pumpguard-system-overview.jpg"
+      "architectureUrl": "assets/WhatsApp Image 2026-11-15 at 4.39.35 PM.jpeg"
     },
     {
       "title": "Egyptian Cars AI",
